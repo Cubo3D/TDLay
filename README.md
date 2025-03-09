@@ -8,11 +8,11 @@ Ele ultiliza o gerenciador de pacotes AUR nimer, a pessoa cria um repositório q
 
 Caso você queira contribuir, você pode criar um pacote para ele. Não precisa fazer uma fork só seguir as instruções completas no arquivo INSTRUCTIONS.md
 
-##Requisitos Recomendados:
+## Requisitos Recomendados:
 
 -Windows 10+ X86_64bits [Python 3](https://www.python.org/ftp/python/3.13.2/python-3.13.2-amd64.exe) 
 
-##Pré-Requisitos:
+## Pré-Requisitos:
 
 -Saiba de como ultilizar os comandos do terminal Windows como o powershell ou o Pront de Comando(cmd)
 
