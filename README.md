@@ -6,7 +6,7 @@ Por enquanto o terminal não possuí nenhum comando nem esse que falei anteriome
 
 Ele ultiliza o gerenciador de pacotes AUR nimer, a pessoa cria um repositório que vai servir como pacote, ele me manda um gmail para mim, depois eu provo o pacote e irei pedir para colocar um arquivo .bat no repositório dele(na raís), esse script vai servir para ele implantar um código
 
-Caso você queira contribuir, você pode criar um pacote para ele. Não precisa fazer uma fork só seguir as instruções completas no arquivo INSTRUCTIONS.md
+Caso você queira contribuir, você pode criar um pacote para ele. Não precisa fazer uma fork só seguir as instruções completas no arquivo INSTRUCTIONS
 
 ## Requisitos Recomendados:
 

@@ -1,0 +1,7 @@
+#Como criar um pacote AUR para o nimer:
+
+1. Você pode deve usar o windows que não seja ARM64 pois ele será compatível somente com o X86_64;
+
+2. Coloque todo o seu código dentro de uma funcão com o nome do comando, por exemplo o neofetch, o nome do pacote tem que ficar no título com um hífen(-) (Exemplo: neofetch - nimer);
+
+3. Depois mande um email para mim(nimer@gamil.com) que irei aprovar, se passar no teste, irei pedir para colocar um arquivo .bat na raís. Esse código vai servir para ele encontrar  o pacote e implantar automáticamente no arquivo principal;
