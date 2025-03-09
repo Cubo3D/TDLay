@@ -10,7 +10,7 @@ Caso você queira contribuir, você pode criar um pacote para ele. Não precisa 
 
 ## Requisitos Recomendados:
 
--Windows 10+ X86_64bits [Python 3](https://www.python.org/ftp/python/3.13.2/python-3.13.2-amd64.exe) 
+-Windows 10+ X86_64bits e [Python 3](https://www.python.org/ftp/python/3.13.2/python-3.13.2-amd64.exe) 
 
 ## Pré-Requisitos:
 
