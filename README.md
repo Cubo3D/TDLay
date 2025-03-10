@@ -1,6 +1,6 @@
 <h1 align="center">TDLay - The Terminal Emulator</h1>
 
-certifique-se de estar na pasta dele para não dar nenhum erro por caussa do arquivo terminal.py linha 4!!!
+certifique-se de estar na pasta dele para não dar nenhum erro por causa do arquivo terminal.py linha 4!!!
 
 O TDLay é um Emulador de Terminal feito em [Python](https://www.python.org/) para Windows, futuramente vai ser compatível com Linux e MacOS. Ultiliza-se comandos diferentes do Windows e Linux como o gg que é o cd do Linux.
 
