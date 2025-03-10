@@ -1,6 +1,12 @@
 <h1 align="center">TDLay - The Terminal Emulator</h1>
 
+certifique-se de estar na pasta dele para não dar nenhum erro por caussa do arquivo terminal.py linha 4!!!
+
 O TDLay é um Emulador de Terminal feito em [Python](https://www.python.org/) para Windows, futuramente vai ser compatível com Linux e MacOS. Ultiliza-se comandos diferentes do Windows e Linux como o gg que é o cd do Linux.
+
+Bem na real ele meio que não é um emulador de terminal na realidade ele tenta imitar um sistema operacional sem interface gráfica, eu tive essa ideia após eu, [xvierdev](https://github.com/xvierdev/) e [imfenyx](https://github.com/imfenyx) tivemos uma ideia de transformar o EnglishTerminal em realmente um terminal para aprender inglês.
+
+bem dar para ultilizar ele no Windows caso não queira a interface gráfica, mas você não irá conseguir acessar os arquivos do Windows só os arquivos dentro da pasta TDLay environment
 
 Por enquanto o terminal não possuí nenhum comando nem esse que falei anteriomente, somente a LICENSE e o README.md.
 
@@ -10,7 +16,8 @@ Caso você queira contribuir, você pode criar um pacote para ele. Não precisa 
 
 ## Requisitos Recomendados:
 
--Windows 10+ X86_64bits e [Python 3](https://www.python.org/ftp/python/3.13.2/python-3.13.2-amd64.exe) 
+-Windows 10+ X86_64bits e [Python 3](https://www.python.org/ftp/python/3.13.2/python-3.13.2-amd64.exe)
+-Acesso a internet para os pacotes
 
 ## Pré-Requisitos:
 
