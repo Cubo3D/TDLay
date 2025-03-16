@@ -2,7 +2,6 @@ import os
 
 user = os.getlogin()
 hostname = os.environ.get("COMPUTERNAME")
-pasta_antiga = ''
 
 def newpas():
     pasta = input ("nome da nova pasta: ")
@@ -16,6 +15,9 @@ def newpas():
 
 def gg():
     os.chdir(input ("nome da pasta: "))
+
+def ggh():
+    os.system("cd TDLay Environment")
 
 def gga():
     os.system("cd ..")
