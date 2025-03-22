@@ -12,7 +12,7 @@ Bem dar para ultilizar ele no Windows caso não queira a interface gráfica, mas
 
 Quero deixar bem claro para o atacado de moda feminina [R.D.lay](https://www.rdlay.com.br/) não estou copiando o nome do atacado eu só inventei esse nome TDLay não usei o nome do atacado de vocês pois eu não sabia que já tinha atacado de moda feminina chamado R.D.Lay, mas caso você não querem esse nome eu posso mudar.
 
-Ele ultiliza o gerenciador de pacotes AUR nimer, a pessoa cria um repositório que vai servir como pacote, ele me manda um gmail para mim, depois eu provo o pacote e irei pedir para colocar um arquivo .bat no repositório dele(na raís), esse script vai servir para ele implantar um código
+Ele ultiliza o gerenciador de pacotes UR(User Repository) nimer, a pessoa cria um repositório que vai servir como pacote, ele me manda um gmail para mim, depois eu provo o pacote e irei pedir para colocar um arquivo .bat no repositório dele(na raís), esse script vai servir para ele implantar um código
 
 Caso você queira contribuir, você pode criar um pacote para ele. Não precisa fazer uma fork só seguir as instruções completas no arquivo INSTRUCTIONS
 
