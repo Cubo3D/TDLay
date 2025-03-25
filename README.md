@@ -1,20 +1,18 @@
-<h1 align="center">TDLay - The Terminal Emulator</h1>
+<h1 align="center">Cair - The Terminal Emulator</h1>
 
 Certifique-se de estar na pasta TDLay Environment antes de executar ele!!!
 
 Aliás crie uma pasta com algum nome de usuário dentro da pasta Usrs para você fazer as suas coisas
 
-O TDLay é um Emulador de Terminal feito em [Python](https://www.python.org/) para Windows, futuramente vai ser compatível com Linux e MacOS. Ultiliza-se comandos diferentes do Windows e Linux como o gg que é o cd do Linux.
+O Cair é um Emulador de Terminal feito em [Python](https://www.python.org/) para Windows, futuramente vai ser compatível com Linux e MacOS. Ultiliza-se comandos diferentes do Windows e Linux como o gg que é o cd do Linux.
 
 Bem na real ele meio que não é um emulador de terminal na realidade ele tenta imitar um sistema operacional sem interface gráfica, eu tive essa ideia após eu, [xvierdev](https://github.com/xvierdev/) e [imfenyx](https://github.com/imfenyx) tivemos uma ideia de transformar o EnglishTerminal em realmente um terminal para aprender inglês.
 
-Bem dar para ultilizar ele no Windows caso não queira a interface gráfica, mas você não irá conseguir acessar os arquivos do Windows só os arquivos dentro da pasta TDLay environment
-
-Quero deixar bem claro para o atacado de moda feminina [R.D.lay](https://www.rdlay.com.br/) não estou copiando o nome do atacado eu só inventei esse nome TDLay não usei o nome do atacado de vocês pois eu não sabia que já tinha atacado de moda feminina chamado R.D.Lay, mas caso você não querem esse nome eu posso mudar.
+Dar para ultilizar ele no Windows caso não queira a interface gráfica, mas você não irá conseguir acessar os arquivos do Windows só os arquivos dentro da pasta TDLay environment
 
 Ele ultiliza o gerenciador de pacotes UR(User Repository) nimer, a pessoa cria um repositório que vai servir como pacote, ele me manda um gmail para mim, depois eu provo o pacote e irei pedir para colocar um arquivo .bat no repositório dele(na raís), esse script vai servir para ele implantar um código
 
-Caso você queira contribuir, você pode criar um pacote para ele. Não precisa fazer uma fork só seguir as instruções completas no arquivo INSTRUCTIONS
+Caso você queira contribuir, você pode criar um pacote para ele. Não precisa fazer uma fork só seguir as instruções completas no arquivo [INSTRUCTIONS](https://github.com/Cubo3D/Cair/blob/main/INSTRUCTIONS)
 
 ## Comandos:
 * `newpas`:  Cria uma nova pasta
