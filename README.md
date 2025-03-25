@@ -1,6 +1,6 @@
 <h1 align="center">Cair - The Terminal Emulator</h1>
 
-Certifique-se de estar na pasta TDLay Environment antes de executar ele!!!
+Certifique-se de estar na pasta Cair Environment antes de executar ele!!!
 
 Aliás crie uma pasta com algum nome de usuário dentro da pasta Usrs para você fazer as suas coisas
 
@@ -10,7 +10,7 @@ Bem na real ele meio que não é um emulador de terminal na realidade ele tenta 
 
 Dar para ultilizar ele no Windows caso não queira a interface gráfica, mas você não irá conseguir acessar os arquivos do Windows só os arquivos dentro da pasta TDLay environment
 
-Ele ultiliza o gerenciador de pacotes UR(User Repository) nimer, a pessoa cria um repositório que vai servir como pacote, ele me manda um gmail para mim, depois eu provo o pacote e irei pedir para colocar um arquivo .bat no repositório dele(na raís), esse script vai servir para ele implantar um código
+Ele ultiliza o gerenciador de pacotes UR(User Repository) nimer, a pessoa cria um repositório que vai servir como pacote, ele me manda um gmail para mim, depois eu provo o pacote e irei pedir para colocar um arquivo .bat no repositório dele(na raís), esse script vai servir para ele implantar um código dentro do código do Cair
 
 Caso você queira contribuir, você pode criar um pacote para ele. Não precisa fazer uma fork só seguir as instruções completas no arquivo [INSTRUCTIONS](https://github.com/Cubo3D/Cair/blob/main/INSTRUCTIONS)
 
@@ -18,7 +18,7 @@ Caso você queira contribuir, você pode criar um pacote para ele. Não precisa 
 * `newpas`:  Cria uma nova pasta
 * `gg`: Muda para uma pasta diferente
 * `gg-`: Volta para uma pasta anterior
-* `remove`: Apaga qualquer arquivo de forma forçada. Use com cuidado
+* `remove-f`: Apaga qualquer arquivo de forma forçada. Use com cuidado
 * `ar`: Lista todos os arquivos da pasta atual
 * `exit`: Sai do programa
 
@@ -30,6 +30,6 @@ Caso você queira contribuir, você pode criar um pacote para ele. Não precisa 
 
 ## Pré-Requisitos:
 
--Saiba de como ultilizar os comandos do terminal Windows como o powershell ou o Pront de Comando(cmd)
+-Saiba de como ultilizar os comandos do terminal Windows
 
 (Com o tempo serão adicionados mais pré-requisitos!)
