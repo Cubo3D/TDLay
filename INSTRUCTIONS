@@ -6,4 +6,4 @@
 
 3. Coloque todo o seu código dentro de uma funcão com o nome do comando, por exemplo o neofetch. O nome do Repositório deve ficar no título com um hífen(-) (Exemplo: neofetch - nimer);
 
-4. Depois mande um email para mim(nimer@gmail.com) que irei aprovar, se passar no teste, irei pedir para colocar um arquivo .bat na raís. Esse código vai servir para ele encontrar  o pacote e implantar automáticamente no arquivo principal.
+4. Depois mande um email para mim(nimerpackages@gmail.com) que irei aprovar, se passar no teste, irei pedir para colocar um arquivo .bat na raís. Esse código vai servir para ele encontrar  o pacote e implantar automáticamente no arquivo principal.
