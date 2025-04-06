@@ -1,0 +1,23 @@
+body{
+    color: rgb(255, 255, 255);
+    background-color: #333333;
+    font-family: 'Courier New', Courier, monospace;
+}
+a{
+    color: rgb(0, 128, 167);
+    text-decoration: none;
+}
+
+h1{
+    text-align: center;
+}
+
+.main-image{
+    position: sticky;
+    display: block;
+    margin: auto;
+    margin-left: auto;
+    margin-right: auto;
+    width: 80%;
+    align-content: center;
+}
