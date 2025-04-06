@@ -2,7 +2,7 @@
 
 1. Certifique-se de verificar se não tem nenhum pacote com o mesmo nome ou função, para saber disso irei criar um site, então não recomendo fazer um pacote agora;
 
-2. Você pode deve usar o windows que não seja ARM64 pois ele será compatível somente com o X86_64;
+2. Você pode deve usar o windows que não seja ARM64 pois o Seminiux é compatível somente com o X86_64;
 
 3. Coloque todo o seu código dentro de uma funcão com o nome do comando, por exemplo o neofetch. O nome do Repositório deve ficar no título com um hífen(-) (Exemplo: neofetch - nimer);
 

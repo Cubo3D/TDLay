@@ -2,7 +2,7 @@ import os
 import time
 from commands import commands_basic
 
-print("Bem vindo ao Cair, o emulador de terminal totalemnte diferente(ou uma imitação de SO(Sistema Operacional) escrito em python)!")
+print("Bem vindo ao Seminiux, o emulador de terminal totalemnte diferente(ou uma imitação de SO(Sistema Operacional) escrito em python)!")
 print("Todos os comandos no README.md")
 
 

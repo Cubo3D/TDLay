@@ -1,5 +1,8 @@
 import os
 
+user = "none"
+hostname = "none"
+
 def newpas():
     pasta = input ("nome da nova pasta: ")
 
