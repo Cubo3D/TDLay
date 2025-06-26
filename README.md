@@ -1,5 +1,7 @@
 <h1 align="center">Seminiux - The Terminal Emulator</h1>
 
+DESCONTINUADO, MAS COM CHANCE DE VOLTAR EM UM OUTRO REPOSITÓRIO E TOTALMENTE DIFERENTE DESSE
+
 Certifique-se de estar na pasta Seminiux Environment antes de executar ele!!!
 
 Aliás crie uma pasta com algum nome de usuário dentro da pasta "Usrs" para você fazer as suas coisas
